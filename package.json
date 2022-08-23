@@ -1,0 +1,27 @@
+{
+  "name": "web-scraping-globo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm ./src/app.js",
+    "dev": "nodemon -r esm ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseLucasapp/web-scraping-globo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseLucasapp/web-scraping-globo/issues"
+  },
+  "homepage": "https://github.com/JoseLucasapp/web-scraping-globo#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.19",
+    "playwright": "^1.25.0"
+  }
+}
