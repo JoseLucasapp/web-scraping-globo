@@ -1,4 +1,4 @@
-# Web scraping no síte <a href='https://www.globo.com/'>Globo.com</a> para capturar as principais noticias.
+# Web scraping no site <a href='https://www.globo.com/'>Globo.com</a> para capturar as principais noticias.
 
 ## Como rodar a aplicação:
 
